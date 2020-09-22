@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
+
 
 #include "stackconfig.h"
 #include "stack.h"
