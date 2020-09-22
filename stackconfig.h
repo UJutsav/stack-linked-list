@@ -4,3 +4,4 @@
 */
 
 // #define INT_STACK
+#define MAX 50
